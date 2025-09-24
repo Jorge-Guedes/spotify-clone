@@ -1,6 +1,6 @@
 # 🎧 Spotify Clone - Vue + Pinia + Tailwind
 
-Un clon educativo de la interfaz de **Spotify**, construido con **Vue**, **Pinia** y **Tailwind CSS**. Este proyecto fue creado como parte de mi aprendizaje en desarrollo frontend con Vue, y está **basado en el tutorial de [Fazt Code](https://www.youtube.com/@FaztCode)**.
+Un clon educativo de la interfaz de **Spotify**, construido con **Vue**, **Pinia** y **Tailwind CSS**. Este proyecto fue creado como parte de mi aprendizaje en desarrollo frontend con Vue y está **basado en el tutorial de [Fazt Code](https://www.youtube.com/@FaztCode)**.
 
 > 🔗 Tutorial original: [Spotify Clone con Vue 3, Pinia y Tailwind](https://www.youtube.com/watch?v=ZzuqwqP1wAQ)
 
