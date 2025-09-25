@@ -6,7 +6,7 @@ Un clon educativo de la interfaz de **Spotify**, construido con **Vue**, **Pinia
 
 ## 🙌 Agradecimientos
 
-Este proyecto ha sido posiblegracias al tutorial de **Fazt Code**.
+Este proyecto ha sido posiblegracias al tutorial de **John Weeks Dev**.
 
 > ⚠️ **Nota**: Este repositorio **no es una copia exacta** del tutorial. He realizado varias **adaptaciones, correcciones y mejoras** propias para:
 > - Resolver problemas de compatibilidad con versiones actuales de las librerías
