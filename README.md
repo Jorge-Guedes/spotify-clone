@@ -58,5 +58,5 @@ Este proyecto forma parte de mi camino de aprendizaje en Vue.js.
 
 ## 📄 Licencia
 Este proyecto está bajo la licencia MIT.
-Sin embargo, respeta siempre el trabajo original de Fazt Code si usas partes del tutorial.
+Sin embargo, respeta siempre el trabajo original de John Weeks Dev si usas partes del tutorial.
 
